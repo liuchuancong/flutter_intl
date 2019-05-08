@@ -1,0 +1,23 @@
+{
+    "@@last_modified": "2019-05-07T18:00:23.322154",
+    "title": "Счетчик руководство",
+    "@title": {
+      "description": "Name of the tutorial",
+      "type": "text",
+      "placeholders": {}
+    },
+    "hintText": "Пожалуйста, введите имя пользователя",
+    "@hintText": {
+      "description": "input hintText",
+      "type": "text",
+      "placeholders": {}
+    },
+    "text": "Вы нажали кнопку {counter} раз(а):",
+    "@text": {
+      "description": "Our Text to localize",
+      "type": "text",
+      "placeholders": {
+        "counter": {}
+      }
+    }
+  }

@@ -1,0 +1,23 @@
+{
+    "@@last_modified": "2019-05-07T18:00:23.322154",
+    "title": "مكافحة البرنامج التعليمي",
+    "@title": {
+      "description": "Name of the tutorial",
+      "type": "text",
+      "placeholders": {}
+    },
+    "hintText": "الرجاء إدخال اسم المستخدم",
+    "@hintText": {
+        "description": "input hintText",
+        "type": "text",
+        "placeholders": {}
+    },
+    "text": "لقد قمت بالفعل بالنقر فوق الزر {counter} مرات.",
+    "@text": {
+      "description": "Our Text to localize",
+      "type": "text",
+      "placeholders": {
+        "counter": {}
+      }
+    }
+  }

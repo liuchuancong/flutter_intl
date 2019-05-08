@@ -1,0 +1,23 @@
+{
+    "@@last_modified": "2019-05-07T18:00:23.322154",
+    "title": "计算示例",
+    "@title": {
+      "description": "Name of the tutorial",
+      "type": "text",
+      "placeholders": {}
+    },
+    "hintText": "请输入用户名",
+  "@hintText": {
+    "description": "input hintText",
+    "type": "text",
+    "placeholders": {}
+  },
+    "text": "你已经点了按钮 {counter} 次:",
+    "@text": {
+      "description": "Our Text to localize",
+      "type": "text",
+      "placeholders": {
+        "counter": {}
+      }
+    }
+  }

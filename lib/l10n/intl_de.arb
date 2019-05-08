@@ -1,0 +1,23 @@
+{
+    "@@last_modified": "2019-05-07T18:00:23.322154",
+    "title": "Zähler Tutorial",
+    "@title": {
+      "description": "Name of the tutorial",
+      "type": "text",
+      "placeholders": {}
+    },
+    "hintText": "please enter user name",
+    "@hintText": {
+      "description": "input hintText",
+      "type": "text",
+      "placeholders": {}
+    },
+    "text": "Sie haben den Knopf {counter} mal gedrückt:",
+    "@text": {
+      "description": "Our Text to localize",
+      "type": "text",
+      "placeholders": {
+        "counter": {}
+      }
+    }
+  }
